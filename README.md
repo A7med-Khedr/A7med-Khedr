@@ -20,20 +20,6 @@ Here are some of the technologies and tools I work with:
   - Object-Oriented Programming (OOP), Data Structures, Algorithms
 - **Databases:** 
   - [Your preferred databases, e.g., MySQL, MongoDB, etc.]
----
-
-## 📂 Featured Projects
-Here are some of my best projects:
-
-1. **[Design-Bondi](https://a7med-khedr.github.io/Design-Bondi/)**  
-   A sleek, modern design using Bootstrap and Sass.
-   - **Technologies**: HTML, CSS, Bootstrap 5, Sass
-   - [GitHub Repository](https://github.com/A7med-Khedr/Design-Bondi)
-
-2. **[DevFolio](https://a7med-khedr.github.io/DevFolio/)**  
-   A personal portfolio template designed to showcase projects and skills.
-   - **Technologies**: HTML, CSS, JavaScript
-   - [GitHub Repository](https://github.com/A7med-Khedr/DevFolio)
 
 ---
 
