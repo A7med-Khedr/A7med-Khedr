@@ -12,74 +12,79 @@ Hi there! I'm **Ahmed Khedr**, a passionate Front-End Developer dedicated to cra
 Here are some of the technologies and tools I work with:
 
 - **Languages:** 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="/assets/html.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="/assets/css.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="/assets/js.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="/assets/TypeScript.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="/assets/cpp.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer">
-    <img src="/assets/python.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-</p>
+  <p align="left">
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <img src="/assets/html.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <img src="/assets/css.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="/assets/js.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img src="/assets/TypeScript.svg" alt="typescript" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+      <img src="/assets/cpp.svg" alt="cplusplus" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer">
+      <img src="/assets/python.svg" alt="python" width="40" height="40"/>
+    </a>
+  </p>
 
 - **Frameworks & Libraries:** 
   <p align="left">
     <span>
-      <img src="/assets/angular.svg" alt="html5" width="40" height="40"/>
+      <img src="/assets/angular.svg" alt="angular" width="40" height="40"/>
     </span>
     <span>
-      <img src="/assets/jquery.svg" alt="css3" width="40" height="40"/>
+      <img src="/assets/jquery.svg" alt="jquery" width="40" height="40"/>
     </span>
     <span>
-      <img src="/assets/alpinejs.svg" alt="javascript" width="40" height="40"/>
+      <img src="/assets/alpinejs.svg" alt="alpinejs" width="40" height="40"/>
     </span>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="/assets/bootstarp.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="/assets/TailwindCSS-Dark.svg" alt="Tailwind css" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="/assets/Sass.svg" alt="sass" width="40" height="40"/>
-  </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      <img src="/assets/bootstarp.svg" alt="bootstrap" width="40" height="40"/>
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <img src="/assets/TailwindCSS-Dark.svg" alt="Tailwind css" width="40" height="40"/>
+    </a>
+    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+      <img src="/assets/Sass.svg" alt="sass" width="40" height="40"/>
+    </a>
   </p>
 - **Tools & Technologies:** 
-  <span>
-    <img src="/assets/webpack.svg" alt="javascript" width="40" height="40"/>
-  </span>
-  <span>
-    <img src="/assets/vite.svg" alt="javascript" width="40" height="40"/>
-  </span>
-  <span>
-    <img src="/assets/Git.svg" alt="javascript" width="40" height="40"/>
-  </span>
-  <span>
-    <img src="/assets/Github-Dark.svg" alt="javascript" width="40" height="40"/>
-  </span>
-  <span>
-    <img src="/assets/twig.svg" alt="javascript" width="40" height="40"/>
-  </span>
-- **Concepts:**
-  <span>
-    <img src="/assets/oop.svg" alt="javascript" width="40" height="40"/>
-  </span>
-  <span>
-    <img src="/assets/DS.svg" alt="javascript" width="40" height="40"/>
-  </span>
-  <span>
-    <img src="/assets/AL.svg" alt="javascript" width="40" height="40"/>
-  </span>
+  <p>
+    <span>
+      <img src="/assets/webpack.svg" alt="webpack" width="40" height="40"/>
+    </span>
+    <span>
+      <img src="/assets/vite.svg" alt="vite" width="40" height="40"/>
+    </span>
+    <span>
+      <img src="/assets/Git.svg" alt="Git" width="40" height="40"/>
+    </span>
+    <span>
+      <img src="/assets/Github-Dark.svg" alt="Github" width="40" height="40"/>
+    </span>
+    <span>
+      <img src="/assets/twig.svg" alt="twig" width="40" height="40"/>
+    </span>
+  </p>
+ 
+- **Concepts:** 
+  <p>
+    <span>
+      <img src="/assets/oop.svg" alt="javascript" width="40" height="40"/>
+    </span>
+    <span>
+      <img src="/assets/DS.svg" alt="javascript" width="40" height="40"/>
+    </span>
+    <span>
+      <img src="/assets/Al.svg" alt="javascript" width="40" height="40"/>
+    </span>
+  </p>
 
 ---
 
