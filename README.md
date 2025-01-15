@@ -6,36 +6,20 @@ Hi there! I'm **Ahmed Khedr**, a passionate Front-End Developer dedicated to cra
 
 ## 🚀 About Me
 - 💻 **Specialization**: Front-End Development
+## 🚀 Skills
 
-## 🔥 Skills
-Here are the technologies and tools I work with:
+Here are some of the technologies and tools I work with:
 
-### Front-End Development
-- HTML, CSS, JavaScript
-- Bootstrap, Tailwind CSS, Sass
-- Angular, TypeScript, jQuery
-
-### Tools & Frameworks
-- Git, GitHub, Webpack
-- Twig, Alpine.js
-
-### Programming Paradigms
-- Object-Oriented Programming (OOP)
-- Data Structures and Algorithms
-
-### Programming Languages
-- Js
-- C++
-- Python
-
-### Databases
-- Relational Databases (MySQL, etc.)
-
-
-- 📖 **Currently Learning**: Advanced JavaScript, Web Animations, and Performance Optimization
-- **Programming Language**: Js, C++, python
-- 🌟 **Fun Fact**: I love transforming complex designs into reality.
-
+- **Languages:** 
+  - HTML, CSS, JavaScript, TypeScript, C++, Python
+- **Frameworks & Libraries:** 
+  - Angular, jQuery, Alpine.js, Bootstrap, Tailwind CSS, SASS
+- **Tools & Technologies:** 
+  - Webpack, Git, GitHub, Twig
+- **Concepts:** 
+  - Object-Oriented Programming (OOP), Data Structures, Algorithms
+- **Databases:** 
+  - [Your preferred databases, e.g., MySQL, MongoDB, etc.]
 ---
 
 ## 📂 Featured Projects
