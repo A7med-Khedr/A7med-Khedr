@@ -1,5 +1,4 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!+👋+I'm+Ahmed+Khedr;I'm+Front-end+Developer&font=Playwrite+AU+SA&color=fff)
-![Snake Animation](https://github.com/A7med-Khedr/A7med-Khedr/output/github-contribution-grid-snake.svg)
 
 
 
@@ -122,3 +121,9 @@ I'm always looking for exciting new projects and open-source contributions. If y
 
 
 *Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
