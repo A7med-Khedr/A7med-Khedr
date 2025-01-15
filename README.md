@@ -125,4 +125,4 @@ I'm always looking for exciting new projects and open-source contributions. If y
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-*Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*
+<p align="center">*Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*</p>
