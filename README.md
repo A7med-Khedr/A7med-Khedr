@@ -1,4 +1,6 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!+👋+I'm+Ahmed+Khedr;I'm+Front-end+Developer&font=Playwrite+AU+SA&color=fff)
+![Snake Animation](https://github.com/A7med-Khedr/A7med-Khedr/output/github-contribution-grid-snake.svg)
+
 
 
 Hi there! I'm **Ahmed Khedr**, a passionate Front-End Developer dedicated to crafting modern, responsive, and interactive web applications. I thrive on improving user experiences and delivering high-quality web solutions.
