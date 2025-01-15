@@ -19,8 +19,6 @@ Here are some of the technologies and tools I work with:
   - Webpack, Git, GitHub, Twig
 - **Concepts:** 
   - Object-Oriented Programming (OOP), Data Structures, Algorithms
-- **Databases:** 
-  - [Your preferred databases, e.g., MySQL, MongoDB, etc.]
 
 ---
 
