@@ -140,5 +140,3 @@ I'm always looking for exciting new projects and open-source contributions. If y
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<p align="center">*Thank you for visiting my profile! Feel free to explore my repositories and connect with me.*</p>
