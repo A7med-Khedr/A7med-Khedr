@@ -1,6 +1,4 @@
-
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!+👋+I'm+Ahmed+Khedr;I'm+Front-end+Developer&font=Playwrite+AU+SA&size=30&color=fff)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!+👋+I'm+Ahmed+Khedr;I'm+Front-end+Developer&font=Playwrite+AU+SA&size=26&color=fff)
 
 
 Hi there! I'm **Ahmed Khedr**, a passionate Front-End Developer dedicated to crafting modern, responsive, and interactive web applications. I thrive on improving user experiences and delivering high-quality web solutions.
