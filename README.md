@@ -90,8 +90,13 @@ Here are some of the technologies and tools I work with:
 ---
 
 ## 🌐 Connect With Me
-- [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/A7med-Khedr)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/a7med-khedr/)
+<a href="https://github.com/A7med-Khedr">
+  <img src="/assets/Github-Dark.svg" alt="GitHub" width="40" height="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/a7med-khedr/">
+  <img src="/assets/LinkedIn.svg" alt="LinkedIn" width="40" height="40" />
+</a>
 
 ---
 
