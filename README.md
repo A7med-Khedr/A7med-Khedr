@@ -72,6 +72,18 @@ Here are some of the technologies and tools I work with:
     <span>
       <img src="/assets/twig.svg" alt="twig" width="40" height="40"/>
     </span>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <img src="/assets/Linux-Dark.svg" alt="linux" width="40" height="40"/>
+    </a>
+    <a href="#" target="_self" rel="noreferrer">
+      <img src="/assets/Windows-Dark.svg" alt="windows" width="40" height="40"/>
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vs-code" width="40" height="40"/>
+    </a>
+    <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="vs" width="40" height="40"/>
+    </a>
   </p>
  
 - **Concepts:** 
