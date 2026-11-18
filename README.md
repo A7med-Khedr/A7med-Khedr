@@ -17,13 +17,13 @@
 
 **Senior Angular Developer** building **multi-tenant SaaS platforms** and **ERP systems** with modern Angular (Signals, Signal Forms, rxResource, Zoneless, SSR), TypeScript and Nx monorepos.
 
-- 🧭 **Frontend Team Lead @ Zikola** — leading up to 5 developers, owning architecture, coding standards and code review
-- 🏗️ Delivered **3 complete ERP modules** covering **20+ business domains**
-- ⚖️ Built **Sanad**, a law-office SaaS with **11 features**, as the sole frontend developer
-- 🤖 Introduced **AI-assisted development** to the team (agent rules, reusable skills)
-- 🌍 Strong in **RBAC**, **Arabic/English (RTL/LTR)** UIs, **WCAG AA** accessibility and web performance
-- 🎓 B.Sc. in Computer Science — Tanta University
-- 📍 Gharbia, Egypt
+- **Frontend Team Lead @ Zikola** — leading up to 5 developers, owning architecture, coding standards and code review
+- Delivered **3 complete ERP modules** covering **20+ business domains**
+- Built **Sanad**, a law-office SaaS with **11 features**, as the sole frontend developer
+- Introduced **AI-assisted development** to the team (agent rules, reusable skills)
+- Strong in **RBAC**, **Arabic/English (RTL/LTR)** UIs, **WCAG AA** accessibility and web performance
+- B.Sc. in Computer Science — Tanta University
+- Gharbia, Egypt
 
 ---
 
