@@ -27,30 +27,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🏢 Multi-Tenant SaaS ERP</h3>
-      <p>Frontend for a multi-tenant ERP on a Laravel REST API — SaaS Admin, Tenant Admin and Operations modules: tenant provisioning, roles & permissions, audit logs, dashboards, pricing rules, quotations and contracts.</p>
-      <p><code>Angular 22</code> <code>Zoneless</code> <code>SSR</code> <code>Nx</code> <code>Signals</code> <code>Transloco</code> <code>Tailwind v4</code></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚖️ Sanad — Law Office SaaS</h3>
-      <p>11 lazy-loaded features (cases, clients, hearings, courts, payments, documents…), a role-aware dashboard (Admin / Lawyer / Client), RBAC, hearings calendar and real-time push notifications.</p>
-      <p><code>Angular 21</code> <code>Signal Forms</code> <code>rxResource</code> <code>CDK</code> <code>FullCalendar</code> <code>FCM</code></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🌐 <a href="https://ahmed-khedr-portfoolio.vercel.app">Personal Portfolio</a></h3>
-      <p>SSR + prerendered site on Vercel scoring <b>Lighthouse 92 Performance</b> and <b>100</b> in Accessibility, Best Practices and SEO, with Open Graph and JSON-LD.</p>
-      <p><code>Angular 21</code> <code>SSR</code> <code>Tailwind v4</code> <code>Canvas API</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 <table>
